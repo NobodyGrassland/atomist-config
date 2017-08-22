@@ -6,6 +6,9 @@
             "Spring.+",
             "Travis.+"
         ],
+        "dairy": [
+            "CircleCI"
+        ],
         "$default$": [
             "Docker.+",
             "Maven.+",
