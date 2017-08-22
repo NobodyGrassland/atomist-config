@@ -9,6 +9,9 @@
         "dairy": [
             "CircleCI"
         ],
+        "foodtruck": [
+            "Jenkinsfile.*"
+        ],
         "$default$": [
             "Docker.+",
             "Maven.+",
