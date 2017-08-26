@@ -52,3 +52,21 @@ editor:
     - "follower": "nugget"
     - "featureName": "SpringBoot.Structure"
 
+---
+kind: "operation"
+client: "com.atomist:rug"
+version: "1.0.0-20170816122823"
+editor:
+  name: "AddFeatureFollowerEditor"
+  group: "atomist"
+  artifact: "spring-team-handlers"
+  version: "0.9.2"
+  origin:
+    repo: "git@github.com:atomisthq/spring-team-handlers.git"
+    branch: "760e3adedcd0568feeda4f48c4cb1d190546c475"
+    sha: "760e3ad"
+  parameters:
+    - "broadcaster": "spring-rest-seed"
+    - "follower": "chocolat"
+    - "featureName": "SpringBoot.Structure"
+
