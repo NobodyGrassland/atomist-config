@@ -16,7 +16,8 @@
             "Docker.+",
             "Maven.+",
             "Spring.+",
-            "Travis.+"
+            "Travis.+",
+            "Jenkinsfile.*"
         ]
     }
 }
