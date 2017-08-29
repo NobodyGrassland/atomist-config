@@ -17,7 +17,8 @@
             "Maven.+",
             "Spring.+",
             "Travis.+",
-            "Jenkinsfile.*"
+            "Jenkinsfile.*",
+            "CircleCI"
         ]
     }
 }
